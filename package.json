@@ -1,0 +1,12 @@
+{
+    "name": "buster-lcov-reporter",
+    "description": "",
+    "version": "0.0.1",
+    "author": "Felipe Silva<felipef.silva@gmail.com>",
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "main": "index",
+    "keywords": ["buster", "reporters", "lcov"]
+}
