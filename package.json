@@ -1,7 +1,7 @@
 {
     "name": "buster-lcov-reporter",
     "description": "",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "Felipe Silva<felipef.silva@gmail.com>",
     "dependencies": {
     },

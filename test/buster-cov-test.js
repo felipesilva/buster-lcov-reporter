@@ -20,10 +20,10 @@ global._$jscoverage = {
 var testCase = buster.testCase("Buster Coverage Tests", {
     "Given the global jscoverage object, I expect the following lcov report": function(){
         var lCovExpected = [
-            'FS: person.js',
-            'DS: 2, 1',
-            'DS: 3, 0',
-            'DS: 4, 0',
+            'SF:person.js',
+            'DA:2,1',
+            'DA:3,0',
+            'DA:4,0',
             'end_of_record'
         ];
 
